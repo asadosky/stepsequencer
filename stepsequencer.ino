@@ -1,3 +1,4 @@
+//new comment 1
 int analogPin = A14;
 int led_pin = 2;
 int foto_r = 0;
